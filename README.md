@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabaz ali khan</h1>
-<h3 align="center">A passionate frontend Pakistani  Ethical hacker </h3>
-![WhatsApp Image 2025-04-26 at 10 04 19 AM](https://github.com/user-attachments/assets/c4fce68d-dc99-46d5-81ed-69fed70eb970)
+<h3 align="center">A passionate frontend Pakistani  Ethical hacker </h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoami592&label=Profile%20views&color=0e75b6&style=flat" alt="whoami592" /> </p>
 

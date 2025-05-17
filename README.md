@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabaz ali khan</h1>
-![WhatsApp Image 2025-04-26 at 10 04 19 AM](https://github.com/user-attachments/assets/3f4eaa7b-2008-4dd9-b9be-24ff5b55b083)
+"[WhatsApp Image 2025-04-26 at 10 04 19 AM](https://github.com/user-attachments/assets/3f4eaa7b-2008-4dd9-b9be-24ff5b55b083)"
 
 <h3 align="center">A passionate frontend Pakistani  Ethical hacker </h3
 

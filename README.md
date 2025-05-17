@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabaz ali khan</h1>
-<h1 PAKISTAN CYBER ARMY C.A.D <h/1>
+<h1 PAKISTAN CYBER ARMY C.A.D </h1>
 
 <h3 align="center">A passionate frontend Pakistani  Ethical hacker </h3
 

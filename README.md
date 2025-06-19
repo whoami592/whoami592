@@ -1,30 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sabaz ali khan</h1>
- const sumalya = {
-    pronouns: "He" | "Him",
-    codename: "r3dhulk",
-    status: "alive",
-    doing: "Content Creation And Coding...",
-    code: ["{Python}", "{Go}", "{C}", "{C++}", "{Perl}", "{Ruby}", "{Java}", "{R}"],
-    askMeAbout: ["soft dev", "web dev", "tech"],
-    webdev: {
-        frontEnd: {
-            code: ["JavaScript, HTML, CSS, ReactJS"],
-        },
-        backEnd: {
-            databases: ["SQL, PHP, NodeJS"],
-        },
-        speciality: {
-            ux_design: ["glassmorphism, neomorphism"],
-        }
-    },
-    contact: {
-        website: redhulk.in,
-        email: `namastesumalya@gmail.com`,
-        instagram: @redhulk.in,
-        youtube: @sumalya,
-    },
-    return 0;
-};
  PAKISTAN CYBER ARMY C.A.D
 <h3 align="center">A passionate frontend Pakistani  Ethical hacker </h3
 

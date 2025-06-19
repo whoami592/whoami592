@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabaz ali khan</h1>
  <h1 A Passionate frontend Pakistani Ethical Hacker</h1>
 
- PAKISTAN CYBER ARMY C.A.D
+  A Passionate frontend Pakistani Ethical Hacker (PAKISTAN CYBER ARMY C.A.D)
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoami592&label=Profile%20views&color=0e75b6&style=flat" alt="whoami592" /> </p>

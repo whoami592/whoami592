@@ -4,7 +4,7 @@
  <h1 A Passionate frontend Pakistani Ethical Hacker</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43B824&background=FFFEFC00&width=435&lines=A;Passionate+;Frontend+;Professional+;Pakistani+Ethical+Hacker;Mr+Sabaz+ALi+Khan;PAKISTAN+CYBER+ARMY+C.A.D" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43B824&background=FFFEFC&width=435&lines=I++am+Mr+Sabaz+ali+khan+;Cyber+Security+engineer;Professional+Pakistani+ethical+Hacker+;Admin+Of+(WHO.AM.I)+HAcking+Group;CaPTT+In+PAkistan+Army+C.A.D" alt="Typing SVG" /></a>
-<h1 align="center">⚡ Miterix - Cyber Security Expert ⚡</h1>
+<h1 align="center">⚡ PAKSTAN ARMY ⚡</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Cyber+Security+Expert;Bug+Bounty+Hunter;Penetration+Tester;Python+Exploit+Developer;Dark+Web+Explorer" alt="Typing SVG" />
 </p>

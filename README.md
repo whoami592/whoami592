@@ -4,6 +4,61 @@
  <h1 A Passionate frontend Pakistani Ethical Hacker</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43B824&background=FFFEFC00&width=435&lines=A;Passionate+;Frontend+;Professional+;Pakistani+Ethical+Hacker;Mr+Sabaz+ALi+Khan;PAKISTAN+CYBER+ARMY+C.A.D" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43B824&background=FFFEFC&width=435&lines=I++am+Mr+Sabaz+ali+khan+;Cyber+Security+engineer;Professional+Pakistani+ethical+Hacker+;Admin+Of+(WHO.AM.I)+HAcking+Group;CaPTT+In+PAkistan+Army+C.A.D" alt="Typing SVG" /></a>
+<h1 align="center">⚡ Miterix - Cyber Security Expert ⚡</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Cyber+Security+Expert;Bug+Bounty+Hunter;Penetration+Tester;Python+Exploit+Developer;Dark+Web+Explorer" alt="Typing SVG" />
+</p>
+
+---
+
+### 🕵️‍♂️ About Me
+- 🧑‍💻 Cyber Security Expert | Ethical Hacker | Penetration Tester
+- ⚔️ Specializing in Offensive Security, Red Teaming, Exploit Development
+- 👨‍💻 Languages: Python, Bash, C, Assembly
+- 👾 Exploit Writer | Reverse Engineer | Malware Analyst
+- 🌍 Exploring the dark side of the Web... responsibly.
+
+---
+
+### 🔧 My Arsenal (Tools & Skills)
+
+| Tool | Description |
+|------|-------------|
+| 🔍 **Nmap** | Network scanning & discovery |
+| ⚔️ **Metasploit** | Exploit Development Framework |
+| 🐍 **Python** | Custom hacking scripts & tools |
+| 👁️ **Wireshark** | Packet analysis |
+| 🔒 **Burp Suite** | Web App Pentesting |
+| 📂 **Dirbuster/Gobuster** | Directory brute forcing |
+| 🛡️ **OSINT Framework** | Intelligence Gathering |
+| 💀 **Custom Payloads** | Coded in Python/C/Assembly |
+
+---
+
+### ⚙️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+---
+
+### 📡 Latest CyberSec Projects
+
+- 🐍 **Python Malware C2 Framework**  
+- 🔗 **Reverse Shell Generator (Python/Bash)**  
+- 🧨 **SMS/Call Bomber (Pentest Purpose)**  
+- 🔓 **WiFi Cracker Script (Educational)**  
+- 🦠 **Basic Keylogger (Python)**  
+
+---
+---
+
+### ⚠️ Disclaimer
+> All tools and scripts are for **educational & ethical purposes only**. Unauthorized hacking is strictly forbidden.
+
+---
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

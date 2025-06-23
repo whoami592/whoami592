@@ -5,10 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43B824&background=FFFEFC00&width=435&lines=A;Passionate+;Frontend+;Professional+;Pakistani+Ethical+Hacker;Mr+Sabaz+ALi+Khan;PAKISTAN+CYBER+ARMY+C.A.D" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43B824&background=FFFEFC&width=435&lines=I++am+Mr+Sabaz+ali+khan+;Cyber+Security+engineer;Professional+Pakistani+ethical+Hacker+;Admin+Of+(WHO.AM.I)+HAcking+Group;CaPTT+In+PAkistan+Army+C.A.D" alt="Typing SVG" /></a>
 
-font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=🔥+Dragon+Hacker+Awakens...;🐲+Mastering+Python+Black+Magic...;⚡+Unleashing+Cyber+Fire+Spells...;💻+Coding+Like+a+Dark+Dragon..." alt="Dragon Typing SVG" />
-</p>
-
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

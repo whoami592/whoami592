@@ -2,6 +2,7 @@
 <h1 align="center">PAKISTAN ARMY C A D</h1>
  <h1 A Passionate frontend Pakistani Ethical Hacker</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14FF3A&background=FFFEFC00&width=435&lines=I++Am+Mr+Sabaz+ali+khan+;Cyber+Security+engineer;Professional+Pakistani+ethical+Hacker+;Admin+Of+(WHO.AM.I)+HAcking+Group;CaPTT+In+PAkistan+Army+C.A.D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14FF3A&background=000000F3&width=720&lines=Root%3A-Professional+Pakistani+Ethical+Hacker+%3ASabaz+ali+khan" alt="Typing SVG" /></a>
 
 
 <h1 align="center">⚡ SABAZ ALI KHAN ⚡</h1>
